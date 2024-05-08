@@ -1,6 +1,7 @@
 ## AWS Amplify + Next.js starter
 
 This is a starter application for building fullstack apps with AWS Amplify. 
+This was created by zjoewall
 
 Learn more: https://docs.amplify.aws/gen2/start/quickstart/ 
 
